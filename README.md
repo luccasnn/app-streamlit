@@ -1,4 +1,4 @@
-# 🌸 Dashboard ML — Classificador de Flores Iris
+# Dashboard ML — Classificador de Flores Iris
 
 App interativo construído com Streamlit que combina exploração de dados, visualizações dinâmicas e predições em tempo real com Random Forest.
 
